@@ -1,6 +1,6 @@
 :root{
   --primary: #fff;
-  --bg-color: rgb(205, 194, 43);
+  --bg-color: rgb(253, 162, 230);
   --bg-envelope-color: #f5edd1;
   --envelope-tab: #ecdeb8;
   --envelope-cover: #e6cfa7;
@@ -124,4 +124,5 @@ body{
 .btn{
     font-weight: bold;
     color: pink;
+
 }
